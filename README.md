@@ -30,7 +30,7 @@ Setup
             #     (ubuntu) sudo apt-get install python-dev libxslt-dev
             #     (centos) sudo yum install python-devel libxslt-devel
             #   on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml
-            sudo pip instal lxml
+            sudo pip install lxml
 
  * if you'd like to query SQL (used by `sql` action)
 
